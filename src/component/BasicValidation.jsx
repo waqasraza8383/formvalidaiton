@@ -11,6 +11,7 @@ const BasicValidation = () => {
         }
         else{
             setError(" ")
+            setError(" ")
             alert("Form DOne")
             console.log("Form SucessFully Submit",{name,email})
             setEmail("")
